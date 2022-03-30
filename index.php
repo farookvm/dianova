@@ -98,7 +98,7 @@
                     <div class="col-12 text-center">
                         <div class="head">
                             <h3>Welcome to</h3>
-                            <h2>Dianova Laboratories</h2>
+                            <h2>Dianova Laboratorie</h2>
                         </div>
                         <div class="count-area d-flex">
                             <div class="counter-box">

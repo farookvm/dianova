@@ -42,19 +42,22 @@
     <ul class="button-sidebar">
         <li class="fb-one">
             <a href="covid-test.php" class="sidebar_btn" target="_blank">
-                <img src="assets/img/popup/corona.png" alt="">
+                <div><img src="assets/img/popup/corona.png" alt=""></div>
+               <div><h5>Covid Test Booking</h5></div> 
                 <span>Covid Test Booking</span>
             </a>
         </li>
         <li class="fb-two">
             <a href="home-collection.php" class="sidebar_btn" target="_blank">
-            <img src="assets/img/popup/health-package.png" alt="">
+            <div><img src="assets/img/popup/health-package.png" alt=""></div>
+            <div><h5>Book Home Collection</h5></div> 
                 <span>Book Home Collection</span>
             </a>
         </li>
         <li class="fb-three">
             <a href="health-package.php" class="sidebar_btn" target="_blank">
-            <img src="assets/img/popup/home-collection.png" alt="">
+            <div><img src="assets/img/popup/home-collection.png" alt=""></div>
+            <div><h5>Health Packages Details</h5></div> 
                 <span>Health Packages Details</span>
             </a>
         </li>

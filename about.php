@@ -145,8 +145,8 @@
                             </div>
                             <div class="dr-details">
                                 <span>Director</span>
-                                <h3>Dr Monu S</h3>
-                                <p>MSc.Mlt.Llb</p>
+                                <h3>Mr Monu S</h3>
+                                <p>MSc.MLT.LLB</p>
                             </div>
                         </div>
                     </div>

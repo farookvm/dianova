@@ -3493,7 +3493,7 @@ footer {
     color: #fff;
     text-decoration: none;
     display: block;
-    height: 70px;
+    height: 98px;
     width: 70px;
     font-size: 24px;
     line-height: 50px;
@@ -3510,6 +3510,16 @@ footer {
 .button-sidebar a img {
     width: 40px;
     height: 40px;
+}
+
+.button-sidebar li a {
+    display: flex;
+    flex-direction: column;
+}
+
+.button-sidebar h5 {
+    font-size: 11px;
+    color: #f58220;
 }
 
 .button-sidebar li:first-child a {
